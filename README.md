@@ -6,7 +6,7 @@ Easily add beautiful graphs to your project or app.
 
 ## Getting Started
 
-Simply import WindowMaker into the Swift file you want to use it in, add in the data, call the view you want and Graphable will take care of the rest. 
+Simply import Graphable into the Swift file you want to use it in, add in the data, call the view you want and Graphable will take care of the rest. 
 
 Some test data is supplied but feel free to extend Graphable with more or add your own. 
 
